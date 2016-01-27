@@ -1,0 +1,3 @@
+uenvcmd=fatload mmc ${mmcdev}:1 81000000 /bootfile;go 81000000
+
+
